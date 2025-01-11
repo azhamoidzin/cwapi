@@ -1,0 +1,7 @@
+config.py
+docs.*
+junk
+catwar
+__pycache__
+.venv
+.idea
